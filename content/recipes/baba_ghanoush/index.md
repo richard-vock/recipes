@@ -7,7 +7,6 @@ date: 2021-07-12
 category: Mezzeh
 cuisine: Arabic
 tags:
-  - Arabic
   - Mezzeh
   - Buffet
   - Spread
