@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Baba Ghanoush"
-<!-- image: labneh.jpg -->
+image: baba_ghanoush.jpg
 date: 2021-07-12
 
 category: Mezzeh
