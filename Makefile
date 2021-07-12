@@ -10,9 +10,10 @@ debug:
 deploy:
 	rm -r public/
 	hugo
-	git add public/
-	git commit -m "Update live site"
+	git add .
+	git commit -am "Update live site"
 	git push
+	rsync -r public/ root@recipes.oglaroon.cc:/srv/http/recipes/public/
 
 update-theme:
 	git submodule update --remote --merge
