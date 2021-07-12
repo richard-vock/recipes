@@ -29,7 +29,7 @@ directions:
 - Put a sieve on a pan, then spread a cloth inside the sieve and fill with jogurt mix.
 - Let everything sieve over night in the fridge.
 - Next day use a spoon to scrape the resulting paste off of the cloth and transfer to a large enough vessel.
-- Min in mint and garlic according to taste.
+- Mix in mint and garlic according to taste.
 - Cover surface with olive oil and serve anytime.
 - If fresh garlic is used wait at least half an hour for the garlic aroma to unfold. Otherwise it can be served directly.
 ---
