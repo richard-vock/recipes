@@ -19,7 +19,7 @@ ingredients:
 - 1 egg (possibly 2, but then only the egg yolk of the second)
 - 2-3 tbsp parmesan
 - olive oil
-- salt
+- salt and pepper
 
 directions:
 - Cook spaghetti in salt water.
@@ -27,7 +27,7 @@ directions:
 - Whisk egg and parmesan in a bowl.
 - Once the spaghetti are just shy of al-dente, transfer them directly to the bacon pan. Taking some starchy salt water with them is *intended*.
 - Add egg mix to the pan and mix everything thoroughly. It is important that the remaining heat in the pan is not sufficient to have the egg curdle and thicken.
-- Optionally add salt and pepper or herbs to your liking, but this is definitely not a must.
+- Add salt and pepper to your liking. Herbs are fine too but definitely not a must.
 ---
 
 The classic Italian dish properly done. No cream, no cheese, no bells and whistles.
