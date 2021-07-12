@@ -30,7 +30,7 @@ outputs:
     - HTML
 menu:
   main:
-    - name: Home
+    - name: Recipes
       weight: 1
       url: /
     - name: Category
