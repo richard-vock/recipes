@@ -3,7 +3,7 @@ layout: recipe
 title:  "Labneh"
 image: labneh.jpg
 imagecredit:
-date: 2018-01-02
+date: 2021-07-12
 
 category: Mezzeh
 cuisine: Arabic
