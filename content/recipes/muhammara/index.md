@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Muhammara"
-<!-- image: labneh.jpg -->
+image: muhammara.jpg
 imagecredit:
 date: 2021-07-12
 
