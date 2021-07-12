@@ -24,7 +24,7 @@ ingredients:
 - garlic powder (fresh also works)
 
 directions:
-- Optionally sanitize the cloth by pouring boiling water over it and waiting 10 minutes.
+- Optionally sanitize the cloth by pouring boiling water over it and waiting for 10 minutes.
 - Mix jogurt, water and salt (tf. essentially making Ayran).
 - Put a sieve on a pan, then spread a cloth inside the sieve and fill with jogurt mix.
 - Let everything sieve over night in the fridge.
