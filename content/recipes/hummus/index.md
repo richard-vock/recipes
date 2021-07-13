@@ -33,7 +33,7 @@ directions:
 - Add all other ingredients except parsley and mix.
 - Blend everything using an immersion blender while adding the saved chick pea liquid to achieve
   the desired consistency. If you don't know your preferences yet add just enough to achieve a smooth surface after blending.
-- Transfer to target vessel, cover with olive oil and sprinkle parsley on top (paprika or cayenne works also for decoration). Should last a day or two.
+- Transfer to target vessel, cover with olive oil and sprinkle parsley on top (paprika or cayenne works too for decoration). Should last a day or two.
 ---
 
 My absolute favorite thing to spread onto bread. This one tends to be spicy as it is -- in contrast to the bland stuff usually sold
