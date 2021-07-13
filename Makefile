@@ -17,3 +17,7 @@ deploy:
 
 update-theme:
 	git submodule update --remote --merge
+
+recipe:
+	@read -p "Name of recipe (URL variant):  " name; \
+	hugo new --kind recipe-bundle recipes/$$name

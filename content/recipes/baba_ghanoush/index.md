@@ -10,7 +10,7 @@ tags:
   - Mezzeh
   - Buffet
   - Spread
-yield: 1
+yield: 8
 prepTime: 10min
 cookTime: 60min
 
