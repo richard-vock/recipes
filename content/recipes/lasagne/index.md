@@ -1,0 +1,39 @@
+---
+layout: recipe
+title:  "Lasagna"
+<!-- image: labneh.jpg -->
+date: 2021-07-22
+
+category: Pasta
+cuisine: Italian
+tags:
+  - Al Forno
+  - Beef
+  - Tomatoes
+  - Creamy
+yield: 6
+prepTime: 15min
+cookTime: 45min
+
+ingredients:
+- lasagne plates
+- (optionally) ricotta or other cheese
+- as desired [ragù bolognese](https://recipes.oglaroon.cc/recipes/ragu_bolognese/) (prepare before)
+- as desired [bechamel](https://recipes.oglaroon.cc/recipes/bechamel/) (prepare in parallel)
+
+directions:
+- let plates soak in luke-warm water for a while.
+- meanwhile you can prepare the bechamel sauce if necessary.
+- once the plates are soft, stack layers of ragu, bechamel and plates (start with ragu and then alternate all 3 and finish with a sauce).
+- if desired, add a final layer of cheese.
+- bake for 45 minutes at 180°C.
+---
+
+Who doesn't enjoy a good lasagna. And it even gets better once it gets cold.
+
+Don't try to counterbalance a bad ragu by using lots of cheese - the ragu makes the taste,
+the bechamel the creaminess and the cheese isn't even necessary once you get the former two right.
+
+The missing ingredient in 90% of all lacklustre sauce bolognese you ever tasted is *patience*.
+Those that still feel like something's missing after that realization usually don't know about salsiccia.
+If you are unable to get some you could try substituting it for more ground beef and the spices that usually go into salsiccia (mostly fennel), but I have never tried that.

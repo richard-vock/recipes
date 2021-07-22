@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Ragù Bolognese"
+title:  "Ragu Bolognese"
 <!-- image: labneh.jpg -->
 date: 2021-07-22
 
