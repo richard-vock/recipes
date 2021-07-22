@@ -17,14 +17,13 @@ cookTime: 45min
 
 ingredients:
 - lasagne plates
-- (optionally) ricotta or other cheese
 - as desired [ragù bolognese](https://recipes.oglaroon.cc/recipes/ragu_bolognese/) (prepare before)
 - as desired [bechamel](https://recipes.oglaroon.cc/recipes/bechamel/) (prepare in parallel)
+- (optionally) ricotta or other cheese
 
 directions:
-- let plates soak in luke-warm water for a while.
-- meanwhile you can prepare the bechamel sauce if necessary.
-- once the plates are soft, stack layers of ragu, bechamel and plates (start with ragu and then alternate all 3 and finish with a sauce).
+- let plates soak in luke-warm water for a while -- meanwhile you can prepare the bechamel sauce if necessary.
+- once the plates are soft, stack layers of ragù, bechamel and plates (start with ragù and then alternate all 3 and finish with a sauce).
 - if desired, add a final layer of cheese.
 - bake for 45 minutes at 180°C.
 ---
