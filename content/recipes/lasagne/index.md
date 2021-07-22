@@ -11,7 +11,6 @@ tags:
   - Beef
   - Tomatoes
   - Creamy
-yield: 6
 prepTime: 15min
 cookTime: 45min
 
