@@ -13,8 +13,8 @@ yield: 4
 prepTime: 5min (90mins rest time)
 
 ingredients:
-- 300g wheat flour
-- 70% warm water
+- 300g wheat flour (you can substitute a third by whole grain wheat flour)
+- 65% warm water
 - 2% yeast
 - 1% salt
 - 0.5tsp sugar
