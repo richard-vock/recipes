@@ -27,7 +27,7 @@ directions:
 - Mix everything until a smooth (quite wet) mass is formed.
 - Cover the mixing bowl with cling film or a wet towel and wait one to one and a half hours (until mass has doubled in size). Occasionally stretch-and-fold with wet hands.
 - Using a little flour to handle the dough, divide it into 4 equal pieces and roll out into 20-25cm diameter discs.
-- Fry in a oil-covered pan until lightly browned on both sides.
+- Fry in a oil-covered pan until lightly browned on both sides. Or use a dry pan if you want to go for Greek style Pita.
 - Using a brush coat with garlic oil and serve as desired.
 ---
 
