@@ -12,6 +12,7 @@ tags:
 yield: 1
 prepTime: 2min
 cookTime: 20min
+sources: "[Video by J. Kenji López-Alt](https://www.youtube.com/watch?v=k1Np28NnP40)"
 
 ingredients:
 - spaghetti

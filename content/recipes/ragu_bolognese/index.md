@@ -12,6 +12,7 @@ tags:
 yield: 4
 prepTime: 15min
 cookTime: 3-4 hours
+sources: "[Video by J. Kenji López-Alt](https://www.youtube.com/watch?v=LoDd6_u_970)"
 
 ingredients:
 - 250g salsiccia
