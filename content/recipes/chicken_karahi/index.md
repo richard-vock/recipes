@@ -32,7 +32,7 @@ ingredients:
 - a few strands of culantro or coriander
 
 directions:
-- In a mortar grind garlic and 1 tbsp of ginger -- also put aside.
+- In a mortar grind garlic and 1 tbsp of ginger -- put aside.
 - Mix dry spices.
 - Cut the chicken thigh into large cubes.
 - In a very hot pan or wok heat the ghee, salt and sauté the chicken until it starts to brown.
