@@ -7,7 +7,6 @@
 
     $:visible = false;
     function toggle_visible() {
-        console.log($page);
         visible = !visible;
     }
 </script>
