@@ -44,12 +44,6 @@ async function loadSubCategory(category, subcategory) {
     for (const file of files) {
         if (file.category == category && file.subcategory == subcategory) {
             const recipe = await loadRecipeFile(file.path);
-            // for (const step of recipe.steps) {
-            //     console.log(step);
-            // }
-            console.log(recipe.steps);
-            console.log(recipe.steps.length);
-            console.log(recipe.metadata);
             recipes.push({
                 category,
                 subcategory,
