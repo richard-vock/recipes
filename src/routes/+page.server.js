@@ -1,4 +1,4 @@
-import { getRecipeCategories, loadSubCategory } from '$lib/recipes.js';
+import { getRecipeCategories } from '$lib/recipes.js';
 
 export async function entries() {
     const categories = await getRecipeCategories();
@@ -15,12 +15,10 @@ export async function entries() {
 }
 export const prerender = true;
 
-/** @type {import('./$types').PageLoad} */
+/** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
-    let recipes = await loadSubCategory(params.category, params.subcategory);
     const categories = await getRecipeCategories();
     return {
-        recipes,
-        categories,
+        categories: categories,
     }
 }
