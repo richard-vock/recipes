@@ -9,7 +9,8 @@ function from_url(url) {
     if (url === undefined) {
         return "";
     }
-    let str = url.replace(/-/g, " ");
+    let str = url.replace(/_/g, " ");
+    str = str.replace(/-/g, " ");
     str = str.replace(/and/g, "&");
     return str;
 }
