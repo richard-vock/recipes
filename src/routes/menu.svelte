@@ -26,7 +26,7 @@
     {#if visible }
         <SectionBox>
             <nav class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 items-stretch">
-                {#each Object.keys(categories) as category}
+                {#each Object.keys(categories).sort() as category}
                     <section class="bg-gray-100 grow px-4 py-2 border border-slate-300 border-0 border-r-2 border-b-2">
                         <h1
                             class="capitalize"
@@ -36,7 +36,7 @@
                         </h1>
 
                         <ul>
-                            {#each categories[category] as subcategory}
+                            {#each categories[category].sort() as subcategory}
                                 <li class="text-sm capitalize">
                                     <a
                                         href="/{to_url(category, subcategory)}"
