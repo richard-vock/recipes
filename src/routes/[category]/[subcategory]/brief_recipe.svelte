@@ -15,11 +15,27 @@
     let relative = "type" in recipe.metadata && recipe.metadata["type"] == "relative";
 
     let base_factor = 1.0;
+
+    function truncateFloat(x) {
+        const s = x.toFixed(1).toString();
+        return s.replace(/\.0$/, '');
+    }
+
+    function formatScaling(amount) {
+        if (amount === "some") {
+            return "";
+        }
+        return `${amount}%`;
+    }
+
     function formatAmount(amount, base, unit = null, factor=1.0) {
+        if (amount === "some") {
+            return "";
+        }
         if (relative) {
-            return `${Math.round(0.01 * amount * base)}${base_unit}`;
+            return `${truncateFloat(0.01 * amount * base)}${base_unit}`;
         } else {
-            return `${Math.round(factor*parseFloat(amount))}${unit || "g"}`;
+            return `${truncateFloat(factor*parseFloat(amount))}${unit || "g"}`;
         }
     }
 
@@ -92,7 +108,7 @@
                                     {part.name}
                                 </div>
                                 <div class="text-right">
-                                    {part.quantity}%
+                                    {formatScaling(part.quantity)}
                                 </div>
                                 <div class="text-right">
                                     {formatAmount(part.quantity, base_amount)}
