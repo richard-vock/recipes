@@ -35,7 +35,7 @@
         if (relative) {
             return `${truncateFloat(0.01 * amount * base)}${base_unit}`;
         } else {
-            return `${truncateFloat(factor*parseFloat(amount))}${unit || "g"}`;
+            return `${truncateFloat(factor*parseFloat(amount))}${unit || ""}`;
         }
     }
 
