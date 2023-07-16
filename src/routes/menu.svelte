@@ -9,6 +9,13 @@
     function toggle_visible() {
         visible = !visible;
     }
+
+    function sanitize_category(category) {
+        let cat = category;
+        cat = category.replace(/-/g, " ");
+        cat = cat.replace(/and/g, "&");
+        return cat;
+    }
 </script>
 <div class="container mx-auto py-2 flex flex-col gap-1">
     <SectionBox>
@@ -45,7 +52,7 @@
                                         class:text-sky-500={from_url($page.params.subcategory) === subcategory}
                                         on:click={toggle_visible}
                                 >
-                                        {subcategory}
+                                        {sanitize_category(subcategory)}
                                     </a>
                                 </li>
                             {/each}
